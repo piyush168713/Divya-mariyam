@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MERN.
 - 😄 Pronouns: She/Her
 <!-- GITHUB STATS AND STREAKS -->
-## 📊 
+## Stats 📊 
 ![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divya-mariyam&show_icons=true&hide_border=true&theme=highcontrast)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divya-mariyam&hide_border=true&theme=highcontrast)](https://git.io/streak-stats)
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <img alt="Windows" src="https://img.shields.io/badge/Windows-3DDC84?style=for-the-badge&logo=windows&logoColor=white"/><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><img alt="Ubuntu" src="https://img.shields.io/badge/ubuntu-557C94?style=for-the-badge&logo=ubuntu&logoColor=white"/><img alt="Android" src="https://img.shields.io/badge/Android-E95420?style=for-the-badge&logo=android&logoColor=white"/>
 -->
 
-# Check Out!
+# Check it out!
 <!-- PROJECTS-->
 https://covid-19-prevention-carousel.vercel.app/
 <!-- GITHUB TROPIES -->
